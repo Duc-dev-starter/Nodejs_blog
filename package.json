@@ -1,0 +1,26 @@
+{
+  "name": "nodejs---f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duc-dev-starter/Nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "duclm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duc-dev-starter/Nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/Duc-dev-starter/Nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
